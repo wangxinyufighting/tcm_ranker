@@ -1,6 +1,6 @@
 运行脚本：
 
-'''MODEL_PATH=/mnt/local2/wxy/models/Qwen3-4B K=30 TCM_REWARD_STAGE=focus20 EXPERIMENT_NAME=qwen3_4b_C50_K30_rewardv40_no_sft  bash examples/grpo_trainer/run_qwen3-4b_tcm_herb_rerank_v2.sh'''
+MODEL_PATH=/mnt/local2/wxy/models/Qwen3-4B K=30 TCM_REWARD_STAGE=focus20 EXPERIMENT_NAME=qwen3_4b_C50_K30_rewardv40_no_sft  bash examples/grpo_trainer/run_qwen3-4b_tcm_herb_rerank_v2.sh
 
 关注以下文件：
 
